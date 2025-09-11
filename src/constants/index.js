@@ -32,11 +32,7 @@ import frame from "/assets/images/frame.png";
 export const heroVideo = hmv;
 export const smallHeroVideo = smallmv;
 export const highlightFirstVideo = highlightFirstmv;
-export const highlightSecondVideo = highlightSectmv;
-export const highlightThirdVideo = highlightThirdmv;
-export const highlightFourthVideo = highlightFourthmv;
-export const exploreVideo = exploremv;
-export const frameVideo = framemv;
+
 
 export const appleImg = apple;
 export const searchImg = search;
